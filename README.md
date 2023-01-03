@@ -38,9 +38,6 @@
 
 ### Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raheemwilson&show_icons=true&locale=en&layout=compact&hide_border=true" alt="raheemwilson" /></p>
-
-
- 
-
+<br />
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raheemwilson&show_icons=true&locale=en&count_private=true&hide_border=true" alt="raheemwilson" /></p>
 
