@@ -2,7 +2,7 @@
 
 <h1 align="center" mt="-10">Hi 👋, I'm Raheem</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+frontend+developer+from+Jamaica+🇯🇲;Active+University+Student;Always+learning+something+new" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+frontend+developer+from+Jamaica+🇯🇲;Active+university+student;Always+learning+something+new" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 I’m currently working on **my personal website** 
