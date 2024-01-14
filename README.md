@@ -9,7 +9,7 @@
 >
 - 🌱 I’m currently learning **Mobile development and artificial intelligence**
 >
-- 👨‍💻 All of my projects are available at [https://www.raheemwilson.tech/](https://www.raheemwilson.tech/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://raheem-wilson-portfolio.vercel.app/)
 >
 - 💬 Ask me about **React, Typescript and NodeJs**
 >
